@@ -7,4 +7,4 @@ for i in range(len(nums)):
         break
 else:
     print("not found")
-# first DSA practice program
+# First DSA practice program
