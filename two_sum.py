@@ -1,4 +1,3 @@
-#have to learn DSA in 60days
 nums = list(map(int,input().split()))
 target = int(input())
 for i in range(len(nums)):
