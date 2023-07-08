@@ -6,7 +6,6 @@
 # 1 5 10 10 5 1 
 # 1 6 15 20 15 6 1 
 
-
 n = int(input())
 a = [[0 for x in range(n)]
         for y in range(n)]
